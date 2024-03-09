@@ -1,0 +1,11 @@
+{
+  "Server": {
+    "Host": "localhost:8888"
+  },
+  "Kafka": {
+    "Brokers":[
+      "kafka:29092"
+    ],
+    "Topic": "comments"
+  }
+}
